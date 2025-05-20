@@ -2,20 +2,29 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/StanleyD3/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/StanleyD3/post-install-config)
-  - [osTicket: Ticket Lifecycle](https://github.com/StanleyD3/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/StanleyD3/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/StanleyD3/azure-network-protocols)
+#### 🧰 osTicket (Help Desk Ticketing System)
+- 📦 [Prerequisites and Installation](https://github.com/StanleyD3/osticket-prereqs)
+- ⚙️ [Post-Installation Configuration](https://github.com/StanleyD3/post-install-config)
+- 🔁 [Ticket Lifecycle (Intake to Resolution)](https://github.com/StanleyD3/ticket-lifecycle)
 
-<h2>🤳Connect with me:</h2>
+#### ☁️ Microsoft Azure Projects
+- 🏢 [Deploying and Configuring Active Directory](https://github.com/StanleyD3/configure-ad)
+- 🔐 [Network Security Groups + Traffic Inspection with Wireshark](https://github.com/StanleyD3/azure-network-protocols)
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/stanley-dansby-b77247175/
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/Josh">
+    <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/stanley-dansby-b77247175/">
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/Josh">
+    <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</p>
