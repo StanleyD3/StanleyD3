@@ -15,16 +15,8 @@
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://twitter.com/Josh">
-    <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
   &nbsp;
   <a href="https://linkedin.com/in/stanley-dansby-b77247175/">
     <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/Josh">
-    <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-</p>
