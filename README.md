@@ -1,3 +1,5 @@
+![Banner](https://github.com/user-attachments/assets/c22a284b-92a1-4d6d-b4b9-1c8b82a3e1f7)
+
 <h1 align="center">Hi, I'm Stanley — <a href="https://www.linkedin.com/in/stanley-dansby-b77247175/">IT Professional</a> ☺</h1>
 
 <p align="center">
